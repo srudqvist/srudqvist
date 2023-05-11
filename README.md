@@ -6,9 +6,11 @@ I am a senior at Drury University with a major in Software Engineering. I am dev
 <a href="https://www.linkedin.com/in/samuel-rudqvist-417b04219/">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/442f2793bec8c5e57ea559d27646c12f51a6d5ef/.github/images/linkedInLogo.png"/>
 </a>
-<a href="">
+<a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
