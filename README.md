@@ -5,6 +5,17 @@ I am a senior at Drury University with a major in Software Engineering. I am dev
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+
 <!--
 **srudqvist/srudqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
