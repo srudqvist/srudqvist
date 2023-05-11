@@ -7,7 +7,7 @@ I am a senior at Drury University with a major in Software Engineering. I am dev
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/442f2793bec8c5e57ea559d27646c12f51a6d5ef/.github/images/linkedInLogo.png"/>
 </a>
 <a href="https://testflight.apple.com/join/u5z20b3N">
-  <img height="50" src="https://github.com/srudqvist/srudqvist/blob/24fc40ba4c79130f7e34fdcd9c70d8ed9995b1a3/.github/images/testflightIcon.png"/>
+  <img height="200" src="https://github.com/srudqvist/srudqvist/blob/24fc40ba4c79130f7e34fdcd9c70d8ed9995b1a3/.github/images/testflightIcon.png"/>
 </a>
 <!-- <a href="https://www.linkedin.com/in/samuel-rudqvist-417b04219/">
   <img height="50" src="https://github.com/srudqvist/srudqvist/assets/60146956/bd1f5dc5-81bc-4dec-a9c9-4433d41bbf80"/>
