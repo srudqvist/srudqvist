@@ -12,9 +12,16 @@ I am a senior at Drury University with a major in Software Engineering. I am dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/srudqvist/count.svg" />
+</p>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
