@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a senior at Drury University with a major in Software Engineering. I am developing the mobile app Where's That Movie in the @WTMTeam organization.
 
 <!--
 **srudqvist/srudqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
