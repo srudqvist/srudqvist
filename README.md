@@ -12,7 +12,7 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide_progress=true&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&layout=compact&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist)](https://git.io/streak-stats)
 
