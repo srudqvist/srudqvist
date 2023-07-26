@@ -20,7 +20,7 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
