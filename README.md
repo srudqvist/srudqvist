@@ -18,10 +18,10 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<!--<h2> 📈 &nbsp;My GitHub History!</h2>
 
-[Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
+-->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/srudqvist/count.svg" />
