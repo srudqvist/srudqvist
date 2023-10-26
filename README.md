@@ -22,10 +22,10 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 
 ![Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
 -->
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/srudqvist/count.svg" />
-</p>
+</p>-->
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
