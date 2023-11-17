@@ -10,7 +10,7 @@ I graduated from Drury University with a major in Software Engineering. I am dev
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=srudqvist)
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=srudqvist&include=organizations)
 ![github-trophies](https://stats.dooboo.io/api/github-trophies?login=srudqvist)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
