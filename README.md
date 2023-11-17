@@ -11,6 +11,7 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 </a>
 
 ![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=srudqvist)
+![github-trophies](https://stats.dooboo.io/api/github-trophies?login=srudqvist)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
