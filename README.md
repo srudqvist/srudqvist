@@ -16,7 +16,7 @@ I graduated from Drury University with a major in Software Engineering. I am dev
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=CMake,Swift,C,CSS&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=CMake,Swift,C,CPP,CSS&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--<h2> 📈 &nbsp;My GitHub History!</h2>
 
