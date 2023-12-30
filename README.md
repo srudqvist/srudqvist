@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I graduated from Drury University with a major in Software Engineering. I am developing the mobile app Where's That Movie in the [WTMTeam](https://github.com/WTMTeam) organization.
+I graduated from Drury University with a major in Software Engineering. I have a passion for software development, mainly mobile and web apps.   
+
+I am currently developing the mobile app Where's That Movie in the [WTMTeam](https://github.com/WTMTeam) organization.  
+
+I am constantly trying to learn new things, with my latest endeavor being Neovim.  
 
 
-I use Vim btw
 
 <!--![linkedInLogo](https://github.com/srudqvist/srudqvist/assets/60146956/bd1f5dc5-81bc-4dec-a9c9-4433d41bbf80)-->
 <a href="https://www.linkedin.com/in/samuel-rudqvist-417b04219/">
@@ -33,7 +36,7 @@ I use Vim btw
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
+I use Vim btw
 <!--
 **srudqvist/srudqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
