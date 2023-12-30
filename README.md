@@ -6,14 +6,13 @@ I graduated from Drury University with a major in Software Engineering and have 
 
 🌟 Always eager to learn, my latest endeavor is Neovim.
 
-### Connect with Me:
-
 <a href="https://www.linkedin.com/in/samuel-rudqvist-417b04219/">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/442f2793bec8c5e57ea559d27646c12f51a6d5ef/.github/images/linkedInLogo.png"/>
 </a>
 <a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a>  
+<br>
 <a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
   <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
 </a>
