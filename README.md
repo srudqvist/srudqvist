@@ -18,6 +18,7 @@ I graduated from Drury University with a major in Software Engineering and have 
   <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
 </a>
 ### GitHub Stats:
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist&card_width=800)](https://git.io/streak-stats)  
 
 
