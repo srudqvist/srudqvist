@@ -1,42 +1,38 @@
-### Hi there 👋
+## Hi there 👋
 
-I graduated from Drury University with a major in Software Engineering. I have a passion for software development, mainly mobile and web apps.   
+I graduated from Drury University with a major in Software Engineering and have a passion for software development, particularly in mobile and web apps.
 
-I am currently developing the mobile app Where's That Movie in the [WTMTeam](https://github.com/WTMTeam) organization.  
+📱 I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization.
 
-I am constantly trying to learn new things, with my latest endeavor being Neovim.  
+🌟 Always eager to learn, my latest endeavor is Neovim.
 
+### Connect with Me:
 
-
-<!--![linkedInLogo](https://github.com/srudqvist/srudqvist/assets/60146956/bd1f5dc5-81bc-4dec-a9c9-4433d41bbf80)-->
 <a href="https://www.linkedin.com/in/samuel-rudqvist-417b04219/">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/442f2793bec8c5e57ea559d27646c12f51a6d5ef/.github/images/linkedInLogo.png"/>
 </a>
 <a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
-</a>
+</a>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist&card_width=800)](https://git.io/streak-stats)  
 
-<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=srudqvist)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&card_width=495)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=C,CMake,CSS&size_weight=0.7&count_weight=0.3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=C,CMake,CSS&size_weight=0.7&count_weight=0.3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!--<h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/srudqvist/srudqvist/blob/output/github-contribution-grid-snake.svg)
--->
-<!--<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/srudqvist/count.svg" />
-</p>-->
+### Miscellaneous:
+
+_I use Vim btw_
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-I use Vim btw
+
+
+
 <!--
 **srudqvist/srudqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
