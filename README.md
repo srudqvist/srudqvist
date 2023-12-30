@@ -14,7 +14,9 @@ I graduated from Drury University with a major in Software Engineering and have 
 <a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a>  
-
+<a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
+  <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
+</a>
 ### GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist&card_width=800)](https://git.io/streak-stats)  
 
