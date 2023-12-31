@@ -13,9 +13,16 @@ I graduated from Drury University with a major in Software Engineering and have 
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a>  
 <br>
-<a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
+
+
+
+<p align='center'>
+  <img height=500 src="https://user-images.githubusercontent.com/60146956/233870344-9a2c9d65-9244-4865-a85d-9a0a3e39c2db.png" />
+  <br>
+  <a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
   <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
 </a>
+</p>
 
 
 ### GitHub Stats:
