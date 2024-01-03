@@ -6,9 +6,7 @@ My name is Samuel Rudqvist, I have a passion for software engineering. I particu
 </a> -->   
 
 I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization. WTM lets you to discover on which streaming platforms a movie or TV show can be found. Feel free to check out the app on the [App Store](https://apps.apple.com/us/app/wheres-that-movie/id6446223836)  
-<div align='right'>
-  <img height="100" src="https://github.com/WTMTeam/WheresThatMovie/assets/60146956/adac56d8-9ea8-4139-855b-608df0c967cf" />
-</div>
+
 
 
 
@@ -28,13 +26,19 @@ I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](ht
   <a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
   <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
 </a>
+  
 </div>
+<div align='center'>
+<img height="100" src="https://github.com/WTMTeam/WheresThatMovie/assets/60146956/adac56d8-9ea8-4139-855b-608df0c967cf" />
+</div>
+
 <div align='center'> 
 <h3>Technologies I Use</h3>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,dart,php,lua,flutter,next,react,git,vim,neovim" />
   </a>
 </div>
+
 <br>
 <br>
 <div align='center'>
