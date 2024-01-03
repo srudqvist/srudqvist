@@ -5,7 +5,7 @@ My name is Samuel Rudqvist, I have a passion for software engineering. I particu
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
 </a> -->   
 
-I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization. WTM is allows you to discover the streaming platforms where a movie or TV show can be found. Feel free to check out the app on the [App Store](https://apps.apple.com/us/app/wheres-that-movie/id6446223836)  
+I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization. WTM lets you to discover on which streaming platforms a movie or TV show can be found. Feel free to check out the app on the [App Store](https://apps.apple.com/us/app/wheres-that-movie/id6446223836)  
 <div align='right'>
   <img height="100" src="https://github.com/WTMTeam/WheresThatMovie/assets/60146956/adac56d8-9ea8-4139-855b-608df0c967cf" />
 </div>
