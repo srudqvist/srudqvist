@@ -26,8 +26,8 @@ I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](ht
   <a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
   <img src="https://github.com/srudqvist/srudqvist/blob/main/.github/images/black.svg"/>
 </a>
-  
 </div>
+<br>
 <div align='center'>
 <img height="100" src="https://github.com/WTMTeam/WheresThatMovie/assets/60146956/adac56d8-9ea8-4139-855b-608df0c967cf" />
 </div>
