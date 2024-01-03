@@ -20,7 +20,7 @@ I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](ht
 
 
 <div align='center'>
-  <a href="https://apps.apple.com/us/app/wheres-that-movie/id6446223836">
+  <a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height=500 src="https://user-images.githubusercontent.com/60146956/233870344-9a2c9d65-9244-4865-a85d-9a0a3e39c2db.png" />
 </a>
   <br>
