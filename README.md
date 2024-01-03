@@ -1,12 +1,13 @@
 ## Hi there 👋
+My name is Samuel Rudqvist, I have a passion for software engineering. I particularly enjoy developing mobile and web apps.
 
-I graduated from Drury University with a major in Software Engineering and have a passion for software development, particularly in mobile and web apps.
-
-<a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
+<!--<a href="https://github.com/WTMTeam/WheresThatMovie/wiki">
   <img height="50" src="https://github.com/srudqvist/srudqvist/blob/02e85ff62b9e12007dc5c9227d29da68fe8e24ac/.github/images/logo2.png"/>
-</a> I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization.
+</a> -->   
 
-🌟 Always eager to learn, my latest endeavor is Neovim.
+I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](https://github.com/WTMTeam) organization. WTM is allows you to discover the streaming platforms where a movie or TV show can be found. Feel free to check out the app on the [App Store](https://apps.apple.com/us/app/wheres-that-movie/id6446223836)
+
+
 
 
 
@@ -30,7 +31,7 @@ I graduated from Drury University with a major in Software Engineering and have 
 <div align='center'> 
 <h3>Technologies I Use</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,dart,php,flutter,next,react,git,vim,neovim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,dart,php,lua,flutter,next,react,git,vim,neovim" />
   </a>
 </div>
 <br>
@@ -45,10 +46,6 @@ I graduated from Drury University with a major in Software Engineering and have 
 </div>
 
 _I use Vim btw_
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 
 
