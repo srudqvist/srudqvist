@@ -46,7 +46,7 @@ I'm currently developing the mobile app "Where's That Movie" in the [WTMTeam](ht
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srudqvist&card_width=800&theme=transparent)](https://git.io/streak-stats)  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&show_icons=true&card_width=495&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=C,CMake,CSS&size_weight=0.7&count_weight=0.3&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srudqvist&count_private=true&include_orgs=true&rank_icon=percentile&show_icons=true&card_width=495&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srudqvist&hide=C,CMake,CSS&size_weight=0.7&count_weight=0.3&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
